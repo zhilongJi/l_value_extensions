@@ -1,7 +1,7 @@
 name: l_value_extensions
 description: "值扩展"
-version: 0.0.1
-homepage:
+version: 0.0.2
+repository: https://github.com/zhilongJi/l_value_extensions
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
