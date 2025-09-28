@@ -1,6 +1,6 @@
 name: l_value_extensions
 description: "值扩展"
-version: 0.0.3
+version: 0.0.4
 repository: https://github.com/zhilongJi/l_value_extensions
 
 environment:
